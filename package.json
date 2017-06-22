@@ -1,0 +1,26 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "modules for CLI.js",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spartan172321/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "inquirer"
+  ],
+  "author": "cheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spartan172321/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/spartan172321/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.1.1"
+  },
+  "devDependencies": {}
+}
