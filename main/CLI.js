@@ -12,7 +12,7 @@ var countB = 0
 // function to create Basic objects and
 function addBasic(){
 	//the function will loop until 2 basic cards are made
-	if(countB<2){
+	if(countB<5){
 		// ask for question and answer
 		inquirer.prompt([
 		{
@@ -67,7 +67,7 @@ var countC = 0
 // function to create Cloze objects and
 function addCloze(){
 	//the function will loop until 2 basic cards are made
-	if(countC<2){
+	if(countC<5){
 		// ask for question and answer
 		inquirer.prompt([
 		{

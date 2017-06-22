@@ -4,4 +4,4 @@
 
 2) CLI.js accepts user input and uses the modules to contruct a series of basic or cloze cards that are then written onto the basic.json and cloze.json as a string of objects.
 
-3) Should create another .js file to play the flash cards.
+3) Should create another .js file to play the flash cards. That is still a work in progress. Plan to use fs.
